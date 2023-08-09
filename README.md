@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mufa2906
+- 👋 Hi, I’m Muhamad Farhan Junaldi
 - 👀 I’m interested in Developing Website. Right now i'm focusing in studying Front-End Devoplopment
 - 🌱 I’m currently learning about HTML, CSS, JS and React
 - 💞️ I’m looking to collaborate on project about Front-End Development especially using React for the development
